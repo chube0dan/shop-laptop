@@ -596,8 +596,10 @@ footer {
 }
 
 .header-footer__click img {
-    float: right;
     width: 57%;
+    position: relative;
+    right: -35%;
+    top: 5px;
 }
 
 /* Content img */
